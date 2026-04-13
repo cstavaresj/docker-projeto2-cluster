@@ -1,0 +1,15 @@
+# Vagrant
+.vagrant/
+
+# Scripts gerados dinamicamente
+worker.sh
+
+# Logs e arquivos temporários
+*.log
+.vagrant.d/
+
+# OS e editores
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
